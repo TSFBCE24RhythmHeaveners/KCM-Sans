@@ -1,2 +1,2 @@
-# KCM-Sans
-A geometric Sans-serif font with Unicode support.
+# Kubocyclomorpha Sans
+Kubocyclomorpha Sans is a geometric Sans-serif font with Unicode support.
